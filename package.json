@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-gree-ly",
+  "version": "1.0.0",
+  "description": "Unified code style configuration of ZhuHai LianYun company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qin Liu",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">=3"
+  }
+}
